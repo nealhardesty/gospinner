@@ -1,0 +1,2 @@
+# gospinner
+Terminal Spinner Thing
